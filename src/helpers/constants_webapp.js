@@ -201,4 +201,4 @@ export const CHARTS_SUBTYPE = [
 ];
 
 
-export const APIKeyGoogle = 'AIzaSyDIZmIn7XbCq6NhXrBDuBtbyF_cCBL33Gk';
+export const APIKeyGoogle = '';
